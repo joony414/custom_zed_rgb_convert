@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jc/Codes/ROS2/px4_ros_com_ros2/install/px4_ros_com/include/**",
+        "/home/jc/Codes/ROS2/px4_ros_com_ros2/install/px4_msgs/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/install/zed_topic_benchmark_interfaces/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/install/zed_rgb_convert/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/install/zed_components/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/install/rviz_plugin_zed_od/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/install/zed_interfaces/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/install/vision_msgs/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/install/image_transport/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/install/camera_info_manager/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/install/camera_calibration_parsers/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/src/image_common/camera_calibration_parsers/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/src/image_common/camera_info_manager/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/src/image_common/image_transport/include/**",
+        "/home/jc/Codes/ROS2/robot_ws/src/vision_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
